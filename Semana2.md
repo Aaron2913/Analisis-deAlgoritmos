@@ -8,7 +8,6 @@ Este capítulo sirve como punto de partida para comprender el desarrollo de algo
 
 ---
 
-##  Temas clave
 
 ### 1. Diseño de algoritmos
 - Introducción al proceso de desarrollar algoritmos paso a paso.
