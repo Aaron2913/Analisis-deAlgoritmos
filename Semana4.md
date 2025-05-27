@@ -6,12 +6,11 @@
 
 ---
 
-## 🔸 Cormen et al. – Characterizing Running Times
+## Cormen et al. – Characterizing Running Times
 
 ### Objetivo
 Entender cómo se mide y compara el rendimiento de algoritmos a gran escala, usando funciones matemáticas que representan su tiempo de ejecución.
 
-### Puntos clave:
 - **Tiempo de ejecución**: se mide en función del tamaño de la entrada (*n*).
 - **Función de crecimiento**: no se interesa en tiempos exactos, sino en cómo escala el algoritmo.
 - **Caso peor, promedio y mejor caso**: se distinguen según el tipo de entrada.
@@ -52,4 +51,9 @@ Comparación entre algoritmos de ordenamiento por inserción (O(n²)) y mergesor
 | Público objetivo       | Estudiantes con bases matemáticas           | Principiantes en algoritmos             |
 
 ---
+### Taller Semana 4 :
+
+
+![semana4](https://github.com/user-attachments/assets/4e5767f0-0ca5-48af-972d-c4582ca029b9)
+
 
