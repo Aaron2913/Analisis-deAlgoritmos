@@ -3,7 +3,7 @@
 
 ---
 
-## 🔸 Tema 3: Notación Asintótica
+##  Tema 3: Notación Asintótica
 
 ### Propósito
 La notación asintótica permite **expresar el crecimiento del tiempo de ejecución** de un algoritmo sin importar los detalles de implementación ni las constantes menores.
@@ -42,12 +42,9 @@ Supongamos que una operación dentro de un algoritmo se repite proporcionalmente
 > Merge Sort: O(n log n)
 
 ---
+![semana 5](https://github.com/user-attachments/assets/e978e638-f786-483d-84a7-2a9f476e803e)
 
-## Enfoque pedagógico
 
-- Utiliza analogías y gráficos para entender mejor el impacto del crecimiento.
-- No se profundiza en demostraciones matemáticas.
-- Ideal para **principiantes que buscan comprender el concepto sin tecnicismos**.
 
 ---
 
