@@ -3,7 +3,7 @@
 
 ---
 
-## 🔸 1.1 Algorithms
+## 1.1 Algorithms
 
 ###  ¿Qué es un algoritmo?
 Un **algoritmo** es un conjunto finito de pasos bien definidos para resolver un problema o realizar una tarea. En informática, los algoritmos son fundamentales para procesar datos, resolver problemas computacionales y automatizar procesos.
@@ -20,13 +20,13 @@ El algoritmo de **Euclides** para calcular el máximo común divisor (MCD) ilust
 
 ---
 
-## 🔸 1.2 Algorithms as a Technology
+## 1.2 Algorithms as a Technology
 
 ###  Los algoritmos como tecnología
 Más allá de la teoría, los algoritmos son una **herramienta esencial en la industria tecnológica**. Permiten la construcción de software eficiente, optimización de recursos y desarrollo de sistemas complejos.
 
 
-### 📊 Comparación de algoritmos
+### Comparación de algoritmos
 Se muestra cómo diferentes algoritmos para el mismo problema (por ejemplo, ordenamiento) pueden tener **rendimientos drásticamente distintos**, lo que afecta directamente la escalabilidad y el rendimiento del sistema.
 
 
@@ -36,7 +36,7 @@ Se muestra cómo diferentes algoritmos para el mismo problema (por ejemplo, orde
 
 ---
 
-## 📌 Comparación con Cormen:
+##  Comparación con Cormen:
 
 | Aspecto                  | Cormen et al. (2022)                  | Brassard & Bratley                |
 |--------------------------|---------------------------------------|-----------------------------------|
