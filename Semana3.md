@@ -11,7 +11,7 @@ Diseñar un algoritmo implica encontrar una **solución paso a paso** para resol
 
 ##  Principales conceptos
 
-### 🔸 1. Estrategias de diseño
+### 1. Estrategias de diseño
 
 - **Dividir y vencer (Divide and Conquer):**  
   Divide el problema en subproblemas más pequeños, resuélvelos de forma recursiva y combina sus soluciones.
@@ -25,7 +25,7 @@ Diseñar un algoritmo implica encontrar una **solución paso a paso** para resol
 - **Fuerza bruta y búsqueda exhaustiva:**  
   Prueba todas las posibilidades posibles (efectivo solo en problemas pequeños).
 
-### 🔸 2. Consideraciones clave
+### 2. Consideraciones clave
 
 - **Corrección:**  
   Demostrar que el algoritmo produce la salida correcta para toda entrada válida.
@@ -36,7 +36,7 @@ Diseñar un algoritmo implica encontrar una **solución paso a paso** para resol
 - **Claridad y mantenibilidad:**  
   El algoritmo debe ser comprensible, modular y fácil de adaptar.
 
-### 🔸 3. Proceso iterativo
+### 3. Proceso iterativo
 
 El diseño de algoritmos no es un proceso lineal, sino **iterativo**:
 1. Entender el problema.
@@ -105,5 +105,9 @@ public class MergeSort {
         }
     }
 }
+```
+![semana3_1](https://github.com/user-attachments/assets/ddc19714-081b-4f0b-b687-20a63def931a)
+![semana3](https://github.com/user-attachments/assets/b9b69d23-4409-4ccf-ac48-ef0f4d11bc44)
+
 
 
