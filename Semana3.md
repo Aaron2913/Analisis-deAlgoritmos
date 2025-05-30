@@ -109,5 +109,11 @@ public class MergeSort {
 ![semana3_1](https://github.com/user-attachments/assets/ddc19714-081b-4f0b-b687-20a63def931a)
 ![semana3](https://github.com/user-attachments/assets/b9b69d23-4409-4ccf-ac48-ef0f4d11bc44)
 
+---
+## Registre su aporte con n descripción de la manera en que desarrolló y cual es el resultado.
 
+Implementé el método merge del algoritmo Merge Sort en Java, que combina dos subarreglos ordenados en uno solo de forma eficiente.
+Utilicé arreglos temporales para comparar y ordenar los elementos paso a paso.
+Probé el método con tres casos diferentes y funcionó correctamente.
+Este aporte mejora el rendimiento del ordenamiento con una complejidad O(n log n).
 
